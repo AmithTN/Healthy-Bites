@@ -311,7 +311,7 @@
 
         .accordion-menu:not(.collapsed) .bi-chevron-down {
             transform: rotate(180deg)  !important;
-            padding:0px 10px  !important;     
+            padding:0px 15px  !important;     
         
         }
 
